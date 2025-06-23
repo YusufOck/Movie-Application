@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Popüler Filmler</string>
+    <string name="hello_blank_fragment">Merhaba boş fragment</string>
+    <string name="search_hint">Film ara...</string>
+    <string name="watch_later">Sonradan Izle</string>
+    <string name="add_watch_later">Sonradan İzle ye Ekle</string>
+    <string name="remove">Kaldır</string>
+    <string name="release_date">Vizyon Tarihi:</string>
+    <string name="rating">Puan:</string>
+    <string name="overview">Özet</string>
+    <string name="votes">oy</string>
+    <string name="movie_details">Film Detayları</string>
+</resources> 

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="search_hint">Search movies...</string>
+    <string name="watch_later">Watch Later</string>
+    <string name="add_watch_later">Add Watch Later</string>
+    <string name="remove">Remove</string>
+    <string name="release_date">Release Date:</string>
+    <string name="rating">Rating:</string>
+    <string name="overview">Overview</string>
+    <string name="votes">votes</string>
+    <string name="movie_details">Movie Details</string>
+</resources>
